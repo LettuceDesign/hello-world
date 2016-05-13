@@ -1,2 +1,2 @@
 # hello-world
-Personal; Repository
+Just an average guy wanting to expand the core!
